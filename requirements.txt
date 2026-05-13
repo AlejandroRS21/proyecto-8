@@ -1,0 +1,4 @@
+networkx>=3.0
+matplotlib>=3.0
+cerebras-cloud-sdk>=1.0
+python-dotenv>=1.0

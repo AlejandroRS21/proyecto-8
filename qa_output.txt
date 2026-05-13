@@ -1,0 +1,16 @@
+Grafo QA: 715 nodos, 812 aristas
+
+Q1: ¿Cuándo comenzó la XV legislatura de España?
+A: Comenzó el 17 de agosto de 2023
+Cita: https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a | fecha_extraccion: 2026-05-13
+
+Q2: ¿Quién fue investido presidente del Gobierno?
+A: Pedro Sánchez
+Cita: https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez | fecha_extraccion: 2026-05-13
+
+Q3: ¿Qué cargo se atribuye a Pedro Sánchez en la página del Tercer Gobierno de Pedro Sánchez?
+A: presidente del Gobierno
+Ruta:
+- Tercer Gobierno de Pedro Sánchez --menciona--> Pedro Sánchez | fuente: https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez | fecha_extraccion: 2026-05-13
+- Pedro Sánchez --ser--> investido presidente del Gobierno | fuente: https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a | fecha_extraccion: 2026-05-13
+

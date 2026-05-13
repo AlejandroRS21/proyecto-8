@@ -1,0 +1,21 @@
+# Entorno y dependencias
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+# Reporte secundario (reportlab, ha sido sustituido por la memoria LaTeX)
+make_report_pdf.py
+informe_proyecto8.pdf
+
+# SO
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4252 @@
+[
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "es",
+    "objeto": "la legislatura que comenzó el 17 de agosto de 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-08-17",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "comenzó",
+    "objeto": "el 17 de agosto de 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "precedió",
+    "objeto": "la xiv legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "sucedió",
+    "objeto": "la xvi legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Partido Popular",
+    "predicado": "obtuvo",
+    "objeto": "mayoría simple en el Congreso de los Diputados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Partido Popular",
+    "predicado": "obtuvo",
+    "objeto": "mayoría absoluta en el Senado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "fue investido",
+    "objeto": "presidente del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-16",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "poder alcanzar una mayoría necesaria",
+    "objeto": "para gobernar si reeditara sus pactos de la legislatura pasada",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "EH Bildu",
+    "predicado": "superar",
+    "objeto": "los cinco del PNV",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "PSC",
+    "predicado": "obtener",
+    "objeto": "19 diputados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "ERC",
+    "predicado": "perder",
+    "objeto": "la mitad de sus escaños",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.6
+  },
+  {
+    "sujeto": "Junts per Catalunya",
+    "predicado": "perder",
+    "objeto": "un escaño",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.5
+  },
+  {
+    "sujeto": "CUP",
+    "predicado": "quedarse",
+    "objeto": "sin representación",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.4
+  },
+  {
+    "sujeto": "Partido Popular",
+    "predicado": "obtener",
+    "objeto": "la primera plaza",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Partido Socialista",
+    "predicado": "obtener",
+    "objeto": "la segunda plaza",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Francina Armengol",
+    "predicado": "ser",
+    "objeto": "presidenta del Congreso de los Diputados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Pedro Rollán",
+    "predicado": "ser",
+    "objeto": "presidente del Senado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "PSOE",
+    "predicado": "proponer",
+    "objeto": "a Francina Armengol",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Vox",
+    "predicado": "proponer",
+    "objeto": "a Ignacio Gil",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.6
+  },
+  {
+    "sujeto": "Partido Popular",
+    "predicado": "proponer",
+    "objeto": "a Cuca Gamarra",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.5
+  },
+  {
+    "sujeto": "EH Bildu",
+    "predicado": "obtener",
+    "objeto": "6 escaños",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Congreso de los Diputados",
+    "predicado": "quedar",
+    "objeto": "constituido",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-08-17",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Senado",
+    "predicado": "quedar",
+    "objeto": "constituido",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-08-17",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "PSOE",
+    "predicado": "es",
+    "objeto": "un partido político",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Sumar",
+    "predicado": "es",
+    "objeto": "un partido político",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Junts per Catalunya",
+    "predicado": "es",
+    "objeto": "un grupo parlamentario",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "ERC",
+    "predicado": "es",
+    "objeto": "un partido político",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Alberto Núñez Feijóo",
+    "predicado": "es",
+    "objeto": "el candidato a la presidencia del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "es",
+    "objeto": "el presidente del gobierno y secretario general del PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "es",
+    "objeto": "el rey de España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "PSOE",
+    "predicado": "tiene",
+    "objeto": "102 diputados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Sumar",
+    "predicado": "tiene",
+    "objeto": "26 diputados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Junts per Catalunya",
+    "predicado": "tiene",
+    "objeto": "7 diputados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "ERC",
+    "predicado": "tiene",
+    "objeto": "7 diputados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Alberto Núñez Feijóo",
+    "predicado": "obtuvo",
+    "objeto": "137 votos a favor",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "obtuvo",
+    "objeto": "172 votos a favor",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ser",
+    "objeto": "presidente del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ser",
+    "objeto": "candidato a la presidencia del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "designar",
+    "objeto": "equipo negociador",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "firmar",
+    "objeto": "acuerdo de gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ser",
+    "objeto": "investido presidente del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Yolanda Díaz",
+    "predicado": "ser",
+    "objeto": "vicepresidente segunda",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ser",
+    "objeto": "secretario general del PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pere Aragonès",
+    "predicado": "ser",
+    "objeto": "Presidente de la Generalidad de Cataluña",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "realizar",
+    "objeto": "segunda ronda de consultas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "EH Bildu",
+    "predicado": "confirmar",
+    "objeto": "apoyo a Pedro Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "ERC",
+    "predicado": "cerrar",
+    "objeto": "acuerdo con el PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "PSOE",
+    "predicado": "llegar",
+    "objeto": "acuerdo con Junts per Catalunya",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Cristina Valido García",
+    "predicado": "anunciar",
+    "objeto": "apoyo a la investidura de Pedro Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Francina Armengol",
+    "predicado": "anunciar",
+    "objeto": "fecha de la investidura de Pedro Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "PSOE",
+    "predicado": "firmar",
+    "objeto": "acuerdo con ERC",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "ERC",
+    "predicado": "realizar",
+    "objeto": "consulta a su militancia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Podemos",
+    "predicado": "realizar",
+    "objeto": "consulta a sus bases",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Junts per Catalunya",
+    "predicado": "realizar",
+    "objeto": "consulta a su militancia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "iniciar",
+    "objeto": "XV legislatura de España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Leonor de Borbón",
+    "predicado": "iniciar",
+    "objeto": "formación militar",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Leonor de Borbón",
+    "predicado": "alcanzar",
+    "objeto": "mayoría de edad",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-10-31",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Podemos",
+    "predicado": "abandonar",
+    "objeto": "coalición política Sumar",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-05",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Partido Popular",
+    "predicado": "ganar",
+    "objeto": "elecciones al Parlamento Europeo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Iñigo Urkullu",
+    "predicado": "no presentarse",
+    "objeto": "reelección",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pere Aragonès",
+    "predicado": "convocar",
+    "objeto": "elecciones anticipadas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-03-13",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Partido de los Socialistas de Cataluña",
+    "predicado": "ganar",
+    "objeto": "elecciones catalanas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Partido Popular",
+    "predicado": "ganar",
+    "objeto": "elecciones autonómicas en Aragón y Castilla y León",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ciudadanos",
+    "predicado": "desapareció",
+    "objeto": "Cortes regionales",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ciudadanos",
+    "predicado": "perdió",
+    "objeto": "representación en los parlamentos autonómicos españoles",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ley de amnistía",
+    "predicado": "busca",
+    "objeto": "cancelar procedimientos judiciales y condenas relacionadas con el procés catalán",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Ley de amnistía",
+    "predicado": "beneficiará",
+    "objeto": "alrededor de 350 personas involucradas en procesos judiciales y 73 policías encausados por su participación en el referéndum de 2017",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Reforma constitucional",
+    "predicado": "busca",
+    "objeto": "reemplazar el término «disminuido» del artículo 49 por la expresión «persona con discapacidad»",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Reforma constitucional",
+    "predicado": "entró en vigor",
+    "objeto": "el 17 de febrero de 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-02-17",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Israel",
+    "predicado": "atacó",
+    "objeto": "Palestina",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "deja de exportar armas a Israel",
+    "objeto": "a partir del 7 de octubre de 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-10-07",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "dejar de exportar armas a Israel",
+    "objeto": "a partir del 7 de octubre de 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "exportar armas a Israel",
+    "objeto": "por un importe de 987 000 euros en noviembre",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "enviar estabilizadores de bombas de aviación a Israel",
+    "objeto": "por un valor de 125 240 euros en diciembre",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "reconocer el Estado de Palestina",
+    "objeto": "el 28 de mayo de 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "reconocer",
+    "objeto": "Estado de Palestina",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-05-28",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "apoyar",
+    "objeto": "denuncia de Sudáfrica contra Israel por genocidio en la Corte Internacional de Justicia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-06-06",
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "España",
+    "predicado": "celebrar",
+    "objeto": "acuerdo de alto el fuego entre Israel y Hamás en la Franja Gaza",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-01-15",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "definir",
+    "objeto": "Israel como un 'Estado genocida'",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-05-14",
+    "valido_hasta": null,
+    "confianza": 0.6
+  },
+  {
+    "sujeto": "Comisión Europea",
+    "predicado": "iniciar",
+    "objeto": "revisión del acuerdo de revisión con Israel",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-06-20",
+    "valido_hasta": null,
+    "confianza": 0.5
+  },
+  {
+    "sujeto": "España",
+    "predicado": "anunciar",
+    "objeto": "intención de solicitar suspensión 'inmediata' del acuerdo de asociación con Israel",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-06-23",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Rey Felipe",
+    "predicado": "criticar",
+    "objeto": "crisis humanitaria en la Franja de Gaza",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-09",
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Rey Felipe",
+    "predicado": "abogar",
+    "objeto": "Estado palestino viable que conviva en paz y seguridad con Israel",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-09",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "destinar",
+    "objeto": "diez millones de euros para fortalecer las Fuerzas Armadas Libanesas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-01-15",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "mantenerse",
+    "objeto": "principal contribuyente a la misión de paz en el Líbano",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-06",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "condenar",
+    "objeto": "acciones del ejército israelí en el sur del Líbano",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "España",
+    "predicado": "exigir",
+    "objeto": "cese de las hostilidades tras la muerte de un casco azul indonesio",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.6
+  },
+  {
+    "sujeto": "España",
+    "predicado": "denegar",
+    "objeto": "uso de las bases estadounidenses en territorio español al ejército estadounidense",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-02-28",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "aplicar",
+    "objeto": "convenio que excluye las guerras de agresión",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-02-28",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "aplicar",
+    "objeto": "Carta de las Naciones Unidas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-02-28",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Argelia",
+    "predicado": "intervenir",
+    "objeto": "grupo separatista maliense Frente de Liberación de Azawad (FLA)",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025",
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "España",
+    "predicado": "visitar",
+    "objeto": "Argelia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-03",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "restablecer",
+    "objeto": "relaciones diplomáticas y comerciales con Argelia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-03",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "acceder",
+    "objeto": "reactivar el tratado de amistad con Argelia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-03",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Albares",
+    "predicado": "acudir",
+    "objeto": "Argel",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno español",
+    "predicado": "acceder",
+    "objeto": "tratado de amistad",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno español",
+    "predicado": "aumentar",
+    "objeto": "venta de gas natural",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno español",
+    "predicado": "destinar",
+    "objeto": "2,6 millones de euros",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Hospital Español de Tánger",
+    "predicado": "ser",
+    "objeto": "deficitario",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno español",
+    "predicado": "rechazar",
+    "objeto": "toma de posesión de la presidenta mexicana",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Rey Felipe",
+    "predicado": "reconocer",
+    "objeto": "abuso y controversias éticas en la conquista de América",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno español",
+    "predicado": "exigir",
+    "objeto": "publicación de actas oficiales del proceso electoral en Venezuela",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno español",
+    "predicado": "sacar a Edmundo González del país",
+    "objeto": "aeronave del Ejército del Aire y del Espacio",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Margarita Robles",
+    "predicado": "calificar",
+    "objeto": "dictadura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Consejo General del Poder Judicial",
+    "predicado": "critica a los acuerdos entre el Partido Socialista Obrero Español y el resto de las formaciones políticas",
+    "objeto": "inclusión de términos como lawfare y posibilidad de creación de comisiones de investigación",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Tribunal Supremo",
+    "predicado": "anula el nombramiento de Magdalena Valerio como presidenta del Consejo de Estado",
+    "objeto": "no cumplir con el requisito de ser jurista de reconocido prestigio",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Consejo General del Poder Judicial",
+    "predicado": "vota en contra de la idoneidad de Álvaro García Ortiz como fiscal general del Estado",
+    "objeto": "consideración de que García Ortiz no es apto para el cargo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Vicente Guilarte Gutiérrez",
+    "predicado": "propone retirar competencias sobre nombramientos al Consejo",
+    "objeto": "diluir el interés de los partidos políticos en el órgano",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Partido Socialista Obrero Español y Partido Popular",
+    "predicado": "acuerdan reanudar la negociación para renovar el CGPJ",
+    "objeto": "con la intermediación de la Comisión Europea",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Gobierno de España",
+    "predicado": "pretende modificar algunos aspectos de la Judicatura",
+    "objeto": "instrucción de los procedimientos penales y acceso a la Carrera Judicial de los jueces sustitutos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Asociaciones de jueces y fiscales",
+    "predicado": "convocan una huelga del 1 al 3 de julio de 2025",
+    "objeto": "protesta por la modificación de la Judicatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Partido Socialista Obrero Español y Partido Popular",
+    "predicado": "acuerdan la renovación del CGPJ y del Tribunal Constitucional",
+    "objeto": "tras cinco años y medio de bloqueo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Congreso de los Diputados",
+    "predicado": "aprobar",
+    "objeto": "proposición de ley de Sumar para conceder la nacionalidad por carta de naturaleza a los saharauis",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno de España",
+    "predicado": "expulsar",
+    "objeto": "tres espías estadounidenses",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Congreso de los Diputados",
+    "predicado": "aprobar",
+    "objeto": "candidaturas a vocales del Consejo General del Poder Judicial",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno de España",
+    "predicado": "nombrar",
+    "objeto": "José María Macías como magistrado del Tribunal Constitucional",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Congreso de los Diputados",
+    "predicado": "tramitar",
+    "objeto": "proposición de ley de Sumar para conceder la nacionalidad por carta de naturaleza a los saharauis",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Frente Polisario",
+    "predicado": "mantuvo en guerra",
+    "objeto": "España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "expulsó",
+    "objeto": "tres espías estadounidenses",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "rechazó",
+    "objeto": "5% del PIB dedicado a gasto en defensa",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "aseguró",
+    "objeto": "alcanzar el objetivo del 2% de gasto en defensa",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "transfirió",
+    "objeto": "2150 millones de euros al Ministerio de Defensa",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "transfirió",
+    "objeto": "2800 millones al Ministerio de Industria y Turismo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "aseguró",
+    "objeto": "no gastar más allá del 2,1% del PIB en defensa",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "negó",
+    "objeto": "el uso de las bases españolas para operaciones de agresión contra Irán",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "confirmó",
+    "objeto": "gastar más de un 2% del PIB en gasto militar",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "las elecciones",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PSOE",
+    "predicado": "pierde",
+    "objeto": "las elecciones",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "en seis de las ocho grandes capitales",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El PSOE",
+    "predicado": "pierde",
+    "objeto": "Sevilla, Palma y Valladolid",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "las elecciones pero queda la incertidumbre de quién gobernará",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El bipartidismo",
+    "predicado": "se recompone",
+    "objeto": "y escala hasta aglutinar más del 60 % de los votos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El empate",
+    "predicado": "aboca",
+    "objeto": "a la parálisis y deja el Gobierno en manos de Puigdemont",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "logra",
+    "objeto": "la mayoría absoluta en el Senado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El Real Decreto 400/2023",
+    "predicado": "es",
+    "objeto": "de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La Mesa del Congreso",
+    "predicado": "queda",
+    "objeto": "así en la nueva legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "El Senado",
+    "predicado": "tiene",
+    "objeto": "un Reglamento",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Los Grupos Parlamentarios",
+    "predicado": "son",
+    "objeto": "importantes en el Senado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "las elecciones en Canarias",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PSOE",
+    "predicado": "pierde",
+    "objeto": "las elecciones en Navarra",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "las elecciones en el Senado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El PSOE",
+    "predicado": "pierde",
+    "objeto": "las elecciones en el Senado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "las elecciones en las comunidades autónomas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El PSOE",
+    "predicado": "pierde",
+    "objeto": "las elecciones en las comunidades autónomas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "la Asamblea Regional de Murcia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de Cantabria",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de La Rioja",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "la Asamblea de Extremadura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de Andalucía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "las Cortes Valencianas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "las Cortes de Castilla-La Mancha",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "la Asamblea de Madrid",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de Canarias",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "las Cortes de Castilla y León",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "el Parlamento Vasco",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "las Cortes de Aragón",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de las Islas Baleares",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "turias",
+    "predicado": "designado por",
+    "objeto": "la Junta General de Asturias",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Parlamento de Cataluña",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de Cataluña",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Parlamento Vasco",
+    "predicado": "designado por",
+    "objeto": "el Parlamento Vasco",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Parlamento de Canarias",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de Canarias",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Parlamento de Galicia",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de Galicia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "las Cortes Valencianas",
+    "predicado": "designado por",
+    "objeto": "las Cortes Valencianas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "la Asamblea de Madrid",
+    "predicado": "designado por",
+    "objeto": "la Asamblea de Madrid",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Parlamento de Navarra",
+    "predicado": "designado por",
+    "objeto": "el Parlamento de Navarra",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Rey",
+    "predicado": "iniciar",
+    "objeto": "la ronda de consultas para la investidura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Rey",
+    "predicado": "proponer",
+    "objeto": "a Alberto Núñez Feijóo como candidato a la investidura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "la mayoría del Congreso",
+    "predicado": "decidir",
+    "objeto": "cerrar el paso a Feijóo en la primera votación",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Feijóo",
+    "predicado": "perder",
+    "objeto": "la votación definitiva de su investidura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "ser",
+    "objeto": "el candidato a la investidura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el PSOE y Sumar",
+    "predicado": "alcanzar",
+    "objeto": "un acuerdo de Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "EH Bildu",
+    "predicado": "votar",
+    "objeto": "sí a Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el PSOE y ERC",
+    "predicado": "cerrar",
+    "objeto": "un acuerdo sobre la amnistía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el PSOE y PNV",
+    "predicado": "firmar",
+    "objeto": "un acuerdo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Coalición Canaria",
+    "predicado": "dar",
+    "objeto": "el sí a la investidura de Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Coalición Canaria",
+    "predicado": "da el sí a la investidura de Sánchez",
+    "objeto": "Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ya cuenta con los 179 votos a favor de su investidura",
+    "objeto": "179 votos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Coalición Canaria",
+    "predicado": "no apoya la Ley de amnistía",
+    "objeto": "Ley de amnistía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "es investido presidente",
+    "objeto": "presidente",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "conforma el segundo Gobierno de coalición progresista de la democracia",
+    "objeto": "segundo Gobierno de coalición progresista de la democracia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Nadia Calviño",
+    "predicado": "es elegida nueva presidenta del Banco Europeo de Inversiones",
+    "objeto": "nueva presidenta del Banco Europeo de Inversiones",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "María Jesús Montero",
+    "predicado": "asciende a vicepresidenta primera",
+    "objeto": "vicepresidenta primera",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Carlos Cuerpo",
+    "predicado": "será el nuevo ministro de Economía",
+    "objeto": "nuevo ministro de Economía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "José Luis Escrivá",
+    "predicado": "queda al cargo del Ministerio Transformación Digital y Función Pública",
+    "objeto": "Ministerio Transformación Digital y Función Pública",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Leonor",
+    "predicado": "acompaña a los Reyes en la solemne apertura de la legislatura",
+    "objeto": "legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "ERC",
+    "predicado": "se ausenta de la apertura de la XV Legislatura",
+    "objeto": "apertura de la XV Legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Junts",
+    "predicado": "planta a Felipe VI en el Congreso",
+    "objeto": "Felipe VI",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Óscar López",
+    "predicado": "es un pata negra del PSOE",
+    "objeto": "pata negra del PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Milagros Tolón",
+    "predicado": "será ministra de Educación",
+    "objeto": "ministra de Educación",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Elma Saiz",
+    "predicado": "será portavoz del Gobierno",
+    "objeto": "portavoz del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Carlos Cuerpo",
+    "predicado": "será vicepresidente primero",
+    "objeto": "vicepresidente primero",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Arcadi España",
+    "predicado": "será ministro de Hacienda",
+    "objeto": "ministro de Hacienda",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "ERC, EH Bildu y BNG",
+    "predicado": "se ausentan",
+    "objeto": "la apertura de la XV Legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Junts y ERC",
+    "predicado": "plantan",
+    "objeto": "Felipe VI en el Congreso",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "declara abierta",
+    "objeto": "la XV Legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "recuerda",
+    "objeto": "su deber constitucional de buscar el bien común de todos los españoles",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La princesa Leonor",
+    "predicado": "inicia",
+    "objeto": "su carrera militar en España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Doña Leonor",
+    "predicado": "jura",
+    "objeto": "la Constitución en su mayoría de edad",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La princesa de Asturias",
+    "predicado": "recibe",
+    "objeto": "el collar de la Orden de Carlos III",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La princesa Leonor",
+    "predicado": "reúne",
+    "objeto": "a las familias Borbón y Grecia en una celebración privada en El Pardo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La infanta Sofía",
+    "predicado": "pone rumbo",
+    "objeto": "a Gales para comenzar el Bachillerato en el mismo internado en el que estudió la princesa Leonor",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Podemos",
+    "predicado": "se queda sin poder institucional",
+    "objeto": "tras la salida del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Podemos",
+    "predicado": "oficializa",
+    "objeto": "su ruptura con Sumar y pasa al Grupo Mixto",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Podemos",
+    "predicado": "abandona",
+    "objeto": "Sumar en el Congreso y pasa al Grupo Mixto",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "las elecciones europeas con 4 puntos de ventaja sobre el PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "las elecciones europeas por dos escaños al PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Galicia",
+    "predicado": "celebrará",
+    "objeto": "elecciones autonómicas el 18 de febrero de 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Urkullu",
+    "predicado": "convoca",
+    "objeto": "las elecciones vascas el 21 de abril",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PNV",
+    "predicado": "comunica",
+    "objeto": "a Iñigo Urkullu que no repetirá como lehendakari",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PNV",
+    "predicado": "propone",
+    "objeto": "a Imanol Pradales como candidato a lehendakari",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Aragonès",
+    "predicado": "convoca",
+    "objeto": "elecciones en Cataluña el 12 de mayo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "por mayoría absoluta las elecciones en Galicia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PNV",
+    "predicado": "logra",
+    "objeto": "retener el Gobierno Vasco en alianza con el PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El independentismo",
+    "predicado": "se desinfla",
+    "objeto": "tras doce años de procés y pierde la mayoría absoluta",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Illa",
+    "predicado": "acerca",
+    "objeto": "a la presidencia con un pacto de izquierdas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ciudadanos",
+    "predicado": "desaparece",
+    "objeto": "del Parlament siete años después de ser primera fuerza con 36 escaños y un millón de votos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Guardiola",
+    "predicado": "adelanta",
+    "objeto": "las elecciones de Extremadura al 21 de diciembre",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana",
+    "objeto": "sin mayoría y dependerá de un Vox disparado, el PSOE se hunde y UPE sube en las elecciones en Extremadura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "es",
+    "objeto": "la legislatura que se encuentra en funciones en España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "PP",
+    "predicado": "gana",
+    "objeto": "las elecciones en Aragón",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ciudadanos",
+    "predicado": "desaparece",
+    "objeto": "del último parlamento que le quedaba 20 años después de su nacimiento",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Moreno",
+    "predicado": "convoca",
+    "objeto": "las elecciones en Andalucía para el 17 de mayo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Gobierno",
+    "predicado": "limita",
+    "objeto": "el cambio pactado con ERC y Junts",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Congreso",
+    "predicado": "aprueba",
+    "objeto": "de forma definitiva la ley de amnistía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "PP",
+    "predicado": "recurre",
+    "objeto": "ante el Constitucional la ley de amnistía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Constitucional",
+    "predicado": "concluye",
+    "objeto": "que las comunidades sí pueden recurrir la ley de amnistía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Constitucional",
+    "predicado": "aval",
+    "objeto": "la ley de amnistía",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "acuerda",
+    "objeto": "una reforma exprés del artículo 49 de la Constitución",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Senado",
+    "predicado": "aprueba",
+    "objeto": "definitivamente la eliminación del término 'disminuido' de la Constitución",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Rey",
+    "predicado": "sanciona",
+    "objeto": "la reforma del artículo 49 de la Constitución",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Hamás",
+    "predicado": "secuestra",
+    "objeto": "a civiles y militares como 'prisioneros de guerra'",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Israel",
+    "predicado": "realiza",
+    "objeto": "bombardeos en Gaza",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Rey",
+    "predicado": "condena",
+    "objeto": "los ataques terroristas contra Israel",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Gobierno",
+    "predicado": "manda",
+    "objeto": "munición a Israel",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ione Belarra",
+    "predicado": "pide",
+    "objeto": "parar lo que califica genocidio de Israel sobre el pueblo palestino",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "repite",
+    "objeto": "la promesa de reconocer a Palestina como Estado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Hernández, Marisol",
+    "predicado": "decir",
+    "objeto": "Albares zanja el choque diplomático con Israel mientras Belarra insiste: \"Es un genocidio\"",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "repetir",
+    "objeto": "la promesa de reconocer a Palestina como Estado que ya hizo en 2015",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "plantea",
+    "objeto": "a Netanyahu los dos Estados como solución",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "afea",
+    "objeto": "a Israel la muerte de miles de niños",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "decir",
+    "objeto": "El número de palestinos muertos es realmente insoportable",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "plantea",
+    "objeto": "a Abás que la Autoridad Palestina asuma el control de Gaza cuando caiga Hamás",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Israel",
+    "predicado": "convocar",
+    "objeto": "a embajadores de España y Bélgica por \"apoyo al terrorismo\" de Sánchez y De Croo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "decir",
+    "objeto": "Nosotros no comerciamos con un Estado genocida",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La UE",
+    "predicado": "revisar",
+    "objeto": "el acuerdo de asociación con Israel por las dudas sobre el cumplimiento de los derechos humanos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La UE",
+    "predicado": "concluir",
+    "objeto": "que Israel ha violado los derechos humanos en Gaza",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "pedir",
+    "objeto": "a la UE la suspensión \"inmediata\" del acuerdo de asociación con Israel",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "decir",
+    "objeto": "el establecimiento del Estado palestino junto a Israel para solucionar el conflicto en Gaza",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "decir",
+    "objeto": "la creación de un Estado palestino viable con Gaza, Cisjordania y Jerusalén Este",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "decir",
+    "objeto": "exigimos que detengan esta masacre",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "donar",
+    "objeto": "10 millones de euros a Líbano para fortalecer a su ejército",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "finalizar",
+    "objeto": "el mandato de la misión en Líbano",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "exige",
+    "objeto": "que cese los ataques de en el Líbano tras la muerte de un casco azul",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "condena",
+    "objeto": "el ataque contra la ONU en el Líbano",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "condena",
+    "objeto": "el ataque a un hospital del Líbano, una 'inaceptable violación' de derechos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Albares",
+    "predicado": "anuncia",
+    "objeto": "un paquete de ayudas a Líbano de 9 millones",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "doubles down",
+    "objeto": "después de la amenaza de Trump de cortar el comercio con España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.6
+  },
+  {
+    "sujeto": "España",
+    "predicado": "niega",
+    "objeto": "a EE. UU. el uso de sus bases militares para el ataque a Irán",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Argelia",
+    "predicado": "retoma",
+    "objeto": "el Tratado de Amistad con España tras los acontecimientos en Irán",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "se echa en brazos de Argelia",
+    "objeto": "para comprar gas barato y frenar la dependencia de EE.UU.",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Felipe VI",
+    "predicado": "reconoce",
+    "objeto": "que hubo “mucho abuso y controversias éticas” en la Conquista de América",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "España",
+    "predicado": "insiste",
+    "objeto": "en que para reconocer los resultados en Venezuela deben publicarse las actas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Edmundo González",
+    "predicado": "llega",
+    "objeto": "a España para recibir asilo político",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Nicolás Maduro",
+    "predicado": "gobierno",
+    "objeto": "dictadura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Edmundo González",
+    "predicado": "presidente electo",
+    "objeto": "Venezuela",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "trabaja",
+    "objeto": "democracia y derechos fundamentales",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Margarita Robles",
+    "predicado": "califica",
+    "objeto": "dictadura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Venezuela",
+    "predicado": "cita",
+    "objeto": "embajador de España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "CGPJ",
+    "predicado": "rechaza",
+    "objeto": "lawfare",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Tribunal Supremo",
+    "predicado": "anula",
+    "objeto": "nombramiento de la presidenta del Consejo de Estado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "acuerda",
+    "objeto": "Comisión Europea como supervisor en las negociaciones para renovar el CGPJ",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "jueces",
+    "predicado": "responden",
+    "objeto": "acusaciones de 'lawfare' de Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "acordar",
+    "objeto": "que la Comisión Europea haga de supervisor en las negociaciones para renovar el CGPJ",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Jueces",
+    "predicado": "responden",
+    "objeto": "a las acusaciones de 'lawfare' de Sánchez: \"No seguimos consignas políticas, solo la ley\"",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "PSOE",
+    "predicado": "dar",
+    "objeto": "por hecho que hay casos de lawfare y dice que algunos jueces \"ponen muy difícil\" negarlo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Perelló",
+    "predicado": "pedir",
+    "objeto": "\"respeto a los tiempos y razones de los jueces\" y evitar embates destructivos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La presidenta del Poder Judicial",
+    "predicado": "decir",
+    "objeto": "que cuestionar a \"jueces concretos\" es \"impropio\" de una democracia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El PSOE",
+    "predicado": "cerrar",
+    "objeto": "la renovación del Poder Judicial en Bruselas tras más cinco años de bloqueo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "cerrar",
+    "objeto": "la renovación del Poder Judicial en Bruselas tras más cinco años de bloqueo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Senado",
+    "predicado": "culminar",
+    "objeto": "la renovación del CGPJ eligiendo sus diez vocales correspondientes",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El Congreso",
+    "predicado": "tramitar",
+    "objeto": "una ley para dar la nacionalidad a los saharauis nacidos antes de 1976 con el 'no' del PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "expulsar",
+    "objeto": "ya a tres espías de EEUU y pide la salida de un cuarto por pagar a dos agentes del CNI a cambio de secretos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Trump",
+    "predicado": "exigir",
+    "objeto": "un gasto en Defensa del 5% a los países de la OTAN y acusa a la UE de \"injusta\" con EE UU",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Gobierno",
+    "predicado": "acelerar",
+    "objeto": "el gasto en Defensa para llegar al 2% antes de 2029",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Los partidos de Sumar",
+    "predicado": "acordar",
+    "objeto": "rechazar el aumento del gasto militar ante la reunión de Sánchez y Díaz",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Congreso",
+    "predicado": "rechazar",
+    "objeto": "oponerse al aumento del gasto militar, con Sumar en contra",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El Gobierno",
+    "predicado": "inyectar",
+    "objeto": "2.150 millones a Defensa pese al rechazo de Sumar",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Industria",
+    "predicado": "ganan",
+    "objeto": "peso en el nuevo plan de Defensa y recibe 2.800 millones más para financiar programas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "anunciar",
+    "objeto": "10.471 millones extras en defensa y seguridad para llegar al 2% del PIB este año tras la presión de la OTAN",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "anunciar",
+    "objeto": "un acuerdo con la OTAN para no subir al 5% el gasto en Defensa: \"España destinará un 2,1%, ni más ni menos\"",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "La OTAN",
+    "predicado": "cuestionar",
+    "objeto": "el plan de Sánchez: \"España debe gastar el 3,5%\"",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La OTAN",
+    "predicado": "aprobar",
+    "objeto": "eleva el gasto en defensa al 5% del PIB, el mayor aumento de su historia",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "reafirmarse",
+    "objeto": "en que el 2,1% de gasto militar es suficiente pese a las dudas de la OTAN: \"No es a",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "debe gastar",
+    "objeto": "el 3,5%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La OTAN",
+    "predicado": "aprueba",
+    "objeto": "elevar el gasto en defensa al 5% del PIB",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sánchez",
+    "predicado": "se reafirma",
+    "objeto": "que el 2,1% de gasto militar es suficiente",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Donald Trump",
+    "predicado": "amenaza",
+    "objeto": "a España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El primer ministro belga",
+    "predicado": "tira de ironía",
+    "objeto": "antes de la cumbre de la OTAN",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La OTAN",
+    "predicado": "sitúa",
+    "objeto": "a todos los aliados por encima del 2% de gasto en defensa",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El gobierno de España",
+    "predicado": "niega",
+    "objeto": "a EE. UU. el uso de sus bases militares para el ataque a Irán",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "España",
+    "predicado": "rechaza",
+    "objeto": "prestar apoyo militar al ataque a Irán",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La OTAN",
+    "predicado": "entra en su mayor crisis",
+    "objeto": "por el choque de Trump con Europa por negarse a entrar en la guerra de Irán",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La economía española",
+    "predicado": "continuó creciendo",
+    "objeto": "en el segundo y tercer trimestre del año",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023",
+    "valido_hasta": "2024",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El paro",
+    "predicado": "aumentó",
+    "objeto": "al tiempo que aumentaba la filiación a la Seguridad Social",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023",
+    "valido_hasta": "2024",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "La tasa de paro",
+    "predicado": "cerró en el 11,7%",
+    "objeto": "la más baja al cierre de un año desde 2007",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023",
+    "valido_hasta": "2024",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El empleo",
+    "predicado": "se generó",
+    "objeto": "más de 468 000 empleos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024",
+    "valido_hasta": "2025",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "La tasa de paro",
+    "predicado": "descendió",
+    "objeto": "al 10,61%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024",
+    "valido_hasta": "2025",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Gobierno de España",
+    "predicado": "estimó",
+    "objeto": "un déficit del 3,9% en 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "AIReF",
+    "predicado": "estimó",
+    "objeto": "un déficit del 3,3% en 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Ministerio de Hacienda",
+    "predicado": "confirmó",
+    "objeto": "un déficit del 3,66% en 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Gobierno de España",
+    "predicado": "objetivo",
+    "objeto": "cerrar el ejercicio en el 3% en 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Carlos Cuerpo",
+    "predicado": "declaró",
+    "objeto": "que el déficit se habría cumplido en 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "AIReF",
+    "predicado": "valoró",
+    "objeto": "que las estimaciones se desviarían hasta el 3,3% en 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Vicepresidenta Montero",
+    "predicado": "confirmó",
+    "objeto": "que el déficit del ejercicio pasado se situó en el 2,8% en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Gobierno de España",
+    "predicado": "se comprometió",
+    "objeto": "cerrar el ejercicio con un déficit del 2,5% en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ministerio de Hacienda",
+    "predicado": "confirmó",
+    "objeto": "que las administraciones cerraron el año con un déficit del 2,18% en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "informó",
+    "objeto": "que la deuda pública se situó en el 109,9% del PIB en septiembre de 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "confirmó",
+    "objeto": "que la deuda pública se situó en el 107,7% del PIB en 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "estimó",
+    "objeto": "que la deuda pública se situó en el 105,1% del PIB en 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Ministerio de Economía, Comercio y Empresa",
+    "predicado": "pronosticó",
+    "objeto": "que la deuda pública se situó en el 102,5% del PIB en 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "confirmó",
+    "objeto": "que la deuda pública se situó en el 101,8% del PIB en 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "informó",
+    "objeto": "que la deuda pública se situó en el 100,7% del PIB en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "informó",
+    "objeto": "que la deuda pública se situó en 1,69 billones de euros en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "informó",
+    "objeto": "que la inflación se situó en el 4,1% en abril de 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "informó",
+    "objeto": "que la inflación se situó en el 3,5% en septiembre de 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "informó",
+    "objeto": "que la inflación se situó en el 2,8% en diciembre de 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Banco de España",
+    "predicado": "informó",
+    "objeto": "que la inflación se situó en el 2,7% en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "IPC",
+    "predicado": "se disparó",
+    "objeto": "3,3%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Presupuestos Generales del Estado",
+    "predicado": "se prorrogaron",
+    "objeto": "2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Gobierno",
+    "predicado": "optó por no presentar",
+    "objeto": "las cuentas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ministerio de Hacienda",
+    "predicado": "aprobó",
+    "objeto": "la orden para iniciar la elaboración de los presupuestos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Consejo de Ministros",
+    "predicado": "aprobó",
+    "objeto": "el techo de gasto y los objetivos de déficit y deuda pública",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Congreso de los Diputados",
+    "predicado": "rechazó",
+    "objeto": "el techo de gasto y los objetivos de déficit y deuda pública",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno",
+    "predicado": "descartó",
+    "objeto": "presentar nuevos presupuestos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Estado",
+    "predicado": "adquirió",
+    "objeto": "el 10% de las acciones de Telefónica",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "INE",
+    "predicado": "publicó",
+    "objeto": "los datos sobre la creación de empresas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Empresas",
+    "predicado": "crecieron",
+    "objeto": "un 36,9%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Junts",
+    "predicado": "adoptar",
+    "objeto": "un discurso antiinmigración más rígido",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Grupos parlamentarios socialista y de Junts per Catalunya",
+    "predicado": "alcanzar",
+    "objeto": "un acuerdo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-03-04",
+    "valido_hasta": "2025-03-04",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Proposición de Ley Orgánica de delegación en la comunidad autónoma de Cataluña de competencias estatales en materia de inmigración",
+    "predicado": "ser",
+    "objeto": "calificada por la Mesa de la Cámara Baja",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-03-11",
+    "valido_hasta": "2025-03-11",
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Comisión Interministerial de Inmigración",
+    "predicado": "ser",
+    "objeto": "presidida por el ministro Ángel Víctor Torres",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-01-01",
+    "valido_hasta": "2024-01-15",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Fernando Clavijo",
+    "predicado": "señalar",
+    "objeto": "que las islas se encontraban desbordadas por la atención a más de 4500 menores inmigrantes no acompañados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-02-06",
+    "valido_hasta": "2024-02-06",
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sira Rego",
+    "predicado": "fijar",
+    "objeto": "criterios para la distribución de 4.500 menores extranjeros no acompañados",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-02-06",
+    "valido_hasta": "2024-02-06",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Ernest Urtasun",
+    "predicado": "anunciar",
+    "objeto": "la revisión de las colecciones de los museos estatales",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-01-22",
+    "valido_hasta": "2024-01-22",
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno y Junta de Andalucía",
+    "predicado": "alcanzar",
+    "objeto": "un acuerdo sobre el parque nacional y natural de Doñana",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-01",
+    "valido_hasta": "2023-11-01",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Red Eléctrica de España",
+    "predicado": "iniciar",
+    "objeto": "un progresivo reinicio de la actividad eléctrica",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-04-28",
+    "valido_hasta": "2025-04-29",
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gobierno central",
+    "predicado": "asumir",
+    "objeto": "la gestión directa de la crisis en las comunidades autónomas de Madrid, Andalucía, Extremadura, Región de Murcia, La Rioja, Galicia, Castilla-La Mancha y Castilla y León",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-04-28",
+    "valido_hasta": "2025-04-29",
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El Gobierno central",
+    "predicado": "asumió",
+    "objeto": "la gestión directa de la crisis en las comuniades autónomas de Madrid, Andalucía, Extremadura, Región de Murcia, La Rioja, Galicia, Castilla-La Mancha y la Comunidad Valenciana",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Tribunal Supremo",
+    "predicado": "dicto",
+    "objeto": "ampliar de 16 a 23 semanas el permiso para cuidados del recién nacido de las familias monoparentales",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-10-15",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El Ministerio de Igualdad",
+    "predicado": "desactivo",
+    "objeto": "la aplicación 'Me Toca'",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-01-15",
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "El Gobierno",
+    "predicado": "aprobó",
+    "objeto": "la Ley 12/2023 por el Derecho a la Vivienda",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-12",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Junts per Catalunya",
+    "predicado": "se sumó",
+    "objeto": "al Partido Popular (PP), Vox y Unión del Pueblo Navarro (UPN)",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-09-17",
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "El Banco de España",
+    "predicado": "estima",
+    "objeto": "que el precio medio de la vivienda está sobrevalorado entre el 1,1 y 8,5%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-05-01",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "El Gobierno",
+    "predicado": "aprobó",
+    "objeto": "el desarrollo reglamentario pertinente para desarrollar una nueva cotización social, la 'cuota de solidaridad'",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-03-27",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ser involucrado",
+    "objeto": "en investigaciones judiciales",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "José Luis Ábalos",
+    "predicado": "investigó",
+    "objeto": "presuntas adjudicaciones irregulares de contratos públicos durante la pandemia de COVID-19",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Víctor de Aldama",
+    "predicado": "actuó como intermediario",
+    "objeto": "obtención de contratos públicos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Juan Bernardo Fuentes Curbelo",
+    "predicado": "formó parte de una red de corrupción",
+    "objeto": "Canarias",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Alejandro Hamlyn",
+    "predicado": "fue señalado como cabecilla de la trama",
+    "objeto": "red de fraude fiscal en el sector de los hidrocarburos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Begoña Gómez",
+    "predicado": "fue denunciada por un presunto delito de tráfico de influencias y corrupción privada",
+    "objeto": "vínculos con empresarios beneficiarios de subvenciones públicas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "David Sánchez",
+    "predicado": "fue investigado por su contratación como director de la Oficina de Artes Escénicas de la Diputación de Badajoz",
+    "objeto": "presuntamente diseñada a medida",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Álvaro García Ortiz",
+    "predicado": "fue imputado por presunta revelación de secretos",
+    "objeto": "filtración a medios de un correo confidencial del abogado de la pareja de Isabel Díaz Ayuso",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Leire Díez",
+    "predicado": "fue grabada mientras solicitaba información comprometedora sobre el teniente coronel Antonio Balas",
+    "objeto": "a cambio de favores judiciales y mediáticos a empresarios implicados en otras tramas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La deuda pública",
+    "predicado": "baja",
+    "objeto": "al 107,7% del PIB en 2023",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La deuda pública",
+    "predicado": "baja",
+    "objeto": "al 105,3% en el segundo trimestre tras la revisión al alza del PIB",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La deuda pública",
+    "predicado": "se redujo",
+    "objeto": "al 102,5% del PIB en 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La deuda pública",
+    "predicado": "cierra",
+    "objeto": "en el 101,8% del PIB, tras caer más de tres puntos, y mejora el objetivo del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La deuda pública",
+    "predicado": "baja",
+    "objeto": "3,3 puntos en 2024",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La deuda pública",
+    "predicado": "cierra",
+    "objeto": "en el 100,7% del PIB, tras caer un punto, y mejora el objetivo del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "repunta",
+    "objeto": "al 4,1% en abril",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "modera",
+    "objeto": "nueve décimas hasta el 3,2%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "se moderó",
+    "objeto": "hasta el 1,9% en junio",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "repunta",
+    "objeto": "al 3,5% en septiembre",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "se estabiliza",
+    "objeto": "en el 3,5% en octubre",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "baja",
+    "objeto": "al 3,1% a cierre de año",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "baja",
+    "objeto": "al 2,2% en agosto",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "cae",
+    "objeto": "al 1,5% y cumple el objetivo del BCE",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "cierra",
+    "objeto": "con una subida de cuatro décimas, hasta el 2,8%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "baja",
+    "objeto": "solo una décima en diciembre y la inflación crece un 2,7% en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "se frena",
+    "objeto": "con fuerza en marzo al 2,3%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "sube",
+    "objeto": "en enero al 2,9%",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "se mantiene",
+    "objeto": "en el 2,3% en febrero",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La inflación",
+    "predicado": "se dispara",
+    "objeto": "al 3,3% en marzo por los carburantes",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Gobierno",
+    "predicado": "aprobó",
+    "objeto": "un techo de gasto récord cercano a los 200.000 millones para 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Congreso",
+    "predicado": "tumba",
+    "objeto": "los objetivos de estabilidad y frena el primer paso para aprobar los Presupuestos de 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Los Presupuestos",
+    "predicado": "prorrogados",
+    "objeto": "por 380.000 millones",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La ley de amnistía",
+    "predicado": "tumba",
+    "objeto": "Junts",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Los Presupuestos de 2024",
+    "predicado": "renuncia",
+    "objeto": "Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Los Presupuestos de 2025",
+    "predicado": "da inicio",
+    "objeto": "Hacienda",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Urtasun",
+    "predicado": "es",
+    "objeto": "una persona",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "PILAR, SAMUEL A.",
+    "predicado": "es",
+    "objeto": "un periodista",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Planelles, Javier Martín-Arroyo, Manuel",
+    "predicado": "es",
+    "objeto": "un periodista",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "EFE",
+    "predicado": "es",
+    "objeto": "un agencia de noticias",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Sojo, José Rodríguez",
+    "predicado": "es",
+    "objeto": "un periodista",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Un apagón masivo",
+    "predicado": "afecta",
+    "objeto": "a toda la península Ibérica",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Red Eléctrica",
+    "predicado": "dice",
+    "objeto": "que se está empezando a recuperar la tensión por el norte y sur peninsular",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Francia y Marruecos",
+    "predicado": "ayudan",
+    "objeto": "suministrando a España 2.000 y 900 megavatios respectivamente",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Press, Europa",
+    "predicado": "dice",
+    "objeto": "que se está empezando a recuperar la tensión por el norte y sur peninsular",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "elDiario.es",
+    "predicado": "dice",
+    "objeto": "que se está empezando a recuperar la tensión por el norte y sur peninsular",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Red Eléctrica",
+    "predicado": "dice",
+    "objeto": "que se ha restablecido el 99,95% de la demanda eléctrica a las 7.00 horas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "el Tribunal Supremo",
+    "predicado": "dobra",
+    "objeto": "el permiso de maternidad de familias monoparentales de 16 a 26 semanas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Igualdad",
+    "predicado": "desactiva",
+    "objeto": "la 'app' de Irene Montero sobre el reparto de tareas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El País",
+    "predicado": "informa",
+    "objeto": "que el precio de la vivienda no cede y podría subir hasta un 9% en 2025",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Aranda, José Luis",
+    "predicado": "informa",
+    "objeto": "que España fue el segundo país de la eurozona donde más se encareció la vivienda el año pasado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Junts",
+    "predicado": "se suma",
+    "objeto": "a PP y Vox y tumba la ley de Sumar para limitar el alquiler de temporada y habitaciones",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La Vanguardia",
+    "predicado": "informa",
+    "objeto": "que la ley de Vivienda cumple dos años con el mercado inmobiliario en máxima tensión",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Economista",
+    "predicado": "informa",
+    "objeto": "que la vivienda entra en modo burbuja ante la incapacidad para hacer más casas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "The Economist",
+    "predicado": "informa",
+    "objeto": "que los salarios de más de 56.600 euros pagarán hasta un 1,17 puntos más en cotizaciones por la nueva 'cuota de solidaridad'",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Expansión",
+    "predicado": "informa",
+    "objeto": "que los alimentos básicos recuperan su IVA en 2025: sube el del aceite de oliva",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Mundo",
+    "predicado": "informa",
+    "objeto": "que Hacienda rebaja el IVA del pan de molde, las regañás o el pan sin gluten del 10% al 4% tras una sentencia del Tribunal Supremo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El Mundo",
+    "predicado": "informa",
+    "objeto": "que el salario de los nuevos consejeros de RTVE: de los 11.000 euros de los anteriores a los 125.000 euros que cobrarán ahora",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Molla Pagán, Clara",
+    "predicado": "informa",
+    "objeto": "que los nuevos consejeros de RTVE pasarán a cobrar de 11.000 a 125.000 euros anuales tras asumir la dedicación plena",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El lucro del 'caso Koldo'",
+    "predicado": "es",
+    "objeto": "de 54 millones, pisos a 'tocateja' y artimañas",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El juez",
+    "predicado": "advierte",
+    "objeto": "de la obstrucción del fiscal general en el caso Koldo",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Gálvez, Reyes Rincón, J. J.",
+    "predicado": "informa",
+    "objeto": "que el juez del Supremo envía a Cerdán a prisión por cohecho, organización criminal y tráfico de influencias",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Leire Díez",
+    "predicado": "muestra",
+    "objeto": "preocupación por las revelaciones de Aldama y quiso silenciarle",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La Audiencia Nacional",
+    "predicado": "inicia",
+    "objeto": "el juicio a Hafesa por el fraude masivo de 154 millones en IVA de hidrocarburos",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Leire Díez",
+    "predicado": "pide",
+    "objeto": "ayuda a un comandante de la Guardia Civil para frenar a Aldama",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "La Audiencia Provincial",
+    "predicado": "aval",
+    "objeto": "la investigación a Begoña Gómez por tráfico de influencias, pero no por Air Europa",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Un aforamiento indecoroso",
+    "predicado": "es",
+    "objeto": "un hecho inapropiado",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "Predecesor",
+    "objeto": "XIV legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "Sucesor",
+    "objeto": "XVI legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "Control de autoridades",
+    "objeto": "Q118800859",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "Categoría",
+    "objeto": "XV legislatura de España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "XV legislatura de España",
+    "predicado": "es",
+    "objeto": "una legislatura de España",
+    "fuente": "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  }
+]

@@ -1,0 +1,1282 @@
+[
+  {
+    "sujeto": "Tercer Gobierno de Pedro Sánchez",
+    "predicado": "es",
+    "objeto": "el actual Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "fue investido",
+    "objeto": "presidente del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "alcanzó",
+    "objeto": "un acuerdo de gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Tercer Gobierno de Pedro Sánchez",
+    "predicado": "es",
+    "objeto": "un Gobierno de coalición en minoría",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Tercer Gobierno de Pedro Sánchez",
+    "predicado": "tiene",
+    "objeto": "una mayoría simple de 148 diputados",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Tercer Gobierno de Pedro Sánchez",
+    "predicado": "tiene",
+    "objeto": "una minoría absoluta en el Senado",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ser",
+    "objeto": "presidente del Gobierno de la XV Legislatura",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-16",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Partido Socialista",
+    "predicado": "alcanzar",
+    "objeto": "pactos con los partidos que en la anterior legislatura le habían apoyado",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "ser",
+    "objeto": "reelegido presidente del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-16",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Nadia Calviño",
+    "predicado": "abandonar",
+    "objeto": "el Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-29",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Carlos Cuerpo",
+    "predicado": "ser",
+    "objeto": "ministro de Economía",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-29",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "María Jesús Montero",
+    "predicado": "ser",
+    "objeto": "vicepresidenta primera del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-29",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "José Luis Escrivá",
+    "predicado": "añadir",
+    "objeto": "el área de Función Pública",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-29",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "José Luis Escrivá",
+    "predicado": "ser",
+    "objeto": "gobernador del Banco de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-09-06",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Óscar López Águeda",
+    "predicado": "ser",
+    "objeto": "director del Gabinete del Presidente",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-09-06",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Teresa Ribera",
+    "predicado": "abandonar",
+    "objeto": "el Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-11-25",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Óscar López Águeda",
+    "predicado": "es",
+    "objeto": "Presidente",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Teresa Ribera",
+    "predicado": "abandonó",
+    "objeto": "el Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-11-25",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Sara Aagesen",
+    "predicado": "fue sustituida",
+    "objeto": "en sus cargos nacionales",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Carles Puigdemont",
+    "predicado": "anunció",
+    "objeto": "que Junts per Catalunya rompía el pacto de investidura",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-10-27",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Pilar Alegría",
+    "predicado": "abandonó",
+    "objeto": "el ejecutivo",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-12-22",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Milagros Tolón",
+    "predicado": "fue nombrada",
+    "objeto": "ministra de Educación, Formación Profesional y Deportes",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-12-22",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "María Jesús Montero",
+    "predicado": "abandonó",
+    "objeto": "el Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-03-27",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Arcadi España García",
+    "predicado": "fue nombrado",
+    "objeto": "ministro de Hacienda",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-03-27",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "diseñó",
+    "objeto": "un Gobierno compuesto por diecisiete ministros del PSOE y cinco de Sumar",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-20",
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "nombró",
+    "objeto": "a los veintidós ministros que le había propuesto",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-20",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Palacio de la Zarzuela",
+    "predicado": "es",
+    "objeto": "Palacio de la Zarzuela",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Tercer gobierno de Pedro Sánchez",
+    "predicado": "es",
+    "objeto": "gobierno de Pedro Sánchez",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Partido Socialista Obrero Español",
+    "predicado": "es",
+    "objeto": "partido político",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez Pérez-Castejón",
+    "predicado": "es",
+    "objeto": "Presidente del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Nadia María Calviño Santamaría",
+    "predicado": "es",
+    "objeto": "Vicepresidente primero del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2023-12-29",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "María Jesús Montero Cuadrado",
+    "predicado": "es",
+    "objeto": "Vicepresidente primero del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-29",
+    "valido_hasta": "2024-03-27",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Carlos Cuerpo Caballero",
+    "predicado": "es",
+    "objeto": "Vicepresidente primero del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-03-27",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Yolanda Díaz Pérez",
+    "predicado": "es",
+    "objeto": "Vicepresidenta segunda del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Teresa Ribera Rodríguez",
+    "predicado": "es",
+    "objeto": "Vicepresidenta tercera del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2024-11-25",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Sara Aagesen Muñoz",
+    "predicado": "es",
+    "objeto": "Vicepresidenta tercera del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-11-25",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "María Jesús Montero Cuadrado",
+    "predicado": "es",
+    "objeto": "Vicepresidenta cuarta del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-11-25",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "María Jesús Montero Cuadrado",
+    "predicado": "es",
+    "objeto": "Vicepresidente cuarto del Gobierno de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "José Manuel Albares Bueno",
+    "predicado": "es",
+    "objeto": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2023-12-29",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Félix Bolaños García",
+    "predicado": "es",
+    "objeto": "Secretario del Consejo de Ministros",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "María Margarita Robles Fernández",
+    "predicado": "es",
+    "objeto": "Ministra de Defensa",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "María Jesús Montero Cuadrado",
+    "predicado": "es",
+    "objeto": "Ministra de Hacienda y Función Pública",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023",
+    "valido_hasta": "2026-03-27",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Arcadi España García",
+    "predicado": "es",
+    "objeto": "Ministro de Hacienda y Función Pública",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-03-27",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Fernando Grande-Marlaska Gómez",
+    "predicado": "es",
+    "objeto": "Ministro del Interior",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2026-03-27",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Óscar Puente Santiago",
+    "predicado": "es",
+    "objeto": "Ministro de Transportes y Movilidad Sostenible",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "María del Pilar Alegría Continente",
+    "predicado": "es",
+    "objeto": "Ministra de Educación, Formación Profesional y Deportes",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2025-12-22",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "María del Pilar Alegría Continente",
+    "predicado": "es",
+    "objeto": "Ministra de Educación",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2025-12-22",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Milagros Tolón Jaime",
+    "predicado": "es",
+    "objeto": "Ministra de Trabajo y Economía Social",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-12-22",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Yolanda Díaz Pérez",
+    "predicado": "es",
+    "objeto": "Ministra de Industria y Turismo",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Jordi Hereu i Boher",
+    "predicado": "es",
+    "objeto": "Ministro de Industria y Turismo",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Luis Planas Puchades",
+    "predicado": "es",
+    "objeto": "Ministro de Agricultura, Pesca y Alimentación",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Mónica García Gómez",
+    "predicado": "es",
+    "objeto": "Ministra de Sanidad",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Isabel Rodríguez García",
+    "predicado": "es",
+    "objeto": "Ministra de Vivienda y Agenda Urbana",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Nadia María Calviño Santamaría",
+    "predicado": "es",
+    "objeto": "Ministra de Economía, Comercio y Empresa",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2023-12-29",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Carlos Cuerpo Caballero",
+    "predicado": "es",
+    "objeto": "Ministro de Economía, Comercio y Empresa",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-12-29",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ernest Urtasun i Domènech",
+    "predicado": "es",
+    "objeto": "Ministro de Cultura",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ángel Víctor Torres Pérez",
+    "predicado": "es",
+    "objeto": "Ministro de Política Territorial y Memoria Democrática",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Diana Morant Ripoll",
+    "predicado": "es",
+    "objeto": "Ministra de Ciencia, Innovación y Universidades",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pablo Bustinduy Amador",
+    "predicado": "es",
+    "objeto": "Ministro de Derechos Sociales, Consumo y Agenda 2030",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Teresa Ribera Rodríguez",
+    "predicado": "es",
+    "objeto": "Ministra de Transición Ecológica y Reto Demográfico",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2024-11-25",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Sara Aagesen Muñoz",
+    "predicado": "es",
+    "objeto": "Ministra de Igualdad",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2024-11-25",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ana Redondo García",
+    "predicado": "es",
+    "objeto": "Ministra de Inclusión, Seguridad Social y Migraciones",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Elma Saiz Delgado",
+    "predicado": "es",
+    "objeto": "Ministra de Transformación Digital",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "José Luis Escrivá Belmonte",
+    "predicado": "es",
+    "objeto": "Ministro de Transformación Digital y Función Pública",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2024-09-06",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Óscar López Águeda",
+    "predicado": "es",
+    "objeto": "Ministro de Juventud e Infancia",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2024-09-06",
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Sira Abed Rego",
+    "predicado": "Portavocía",
+    "objeto": "Portavocía del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2023-11-21",
+    "valido_hasta": "2025-12-22",
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Elma Saiz Delgado",
+    "predicado": "Portavocía",
+    "objeto": "Portavocía del Gobierno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": "2025-12-22",
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "María Margarita Robles Fernández",
+    "predicado": "Defensa",
+    "objeto": "Ministro de Defensa de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Óscar Puente Santiago",
+    "predicado": "Transportes y Movilidad Sostenible",
+    "objeto": "Ministro de Transportes (España)",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ana Redondo García",
+    "predicado": "Igualdad",
+    "objeto": "Ministro de Igualdad (España)",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Isabel Rodríguez García",
+    "predicado": "Vivienda y Agenda Urbana",
+    "objeto": "Ministro de Vivienda (España)",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Milagrosa Martínez",
+    "predicado": "Educación, Formación Profesional y Deportes",
+    "objeto": "Ministro de Educación de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Ministerio de Vivienda (España)",
+    "predicado": "es",
+    "objeto": "Ministerio de Vivienda (España)",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Isabel Rodríguez García",
+    "predicado": "es",
+    "objeto": "Isabel Rodríguez García",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Toledo",
+    "predicado": "es",
+    "objeto": "Toledo",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Milagros Tolón Jaime",
+    "predicado": "es",
+    "objeto": "Milagros Tolón Jaime",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Cataluña",
+    "predicado": "es",
+    "objeto": "Cataluña",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Barcelona",
+    "predicado": "es",
+    "objeto": "Barcelona",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Jordi Hereu i Boher",
+    "predicado": "es",
+    "objeto": "Jordi Hereu i Boher",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Cultura",
+    "predicado": "es",
+    "objeto": "Cultura",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ernest Urtasun i Domènech",
+    "predicado": "es",
+    "objeto": "Ernest Urtasun i Domènech",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Extremadura",
+    "predicado": "es",
+    "objeto": "Extremadura",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Badajoz",
+    "predicado": "es",
+    "objeto": "Badajoz",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Carlos Cuerpo",
+    "predicado": "es",
+    "objeto": "Carlos Cuerpo",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Galicia",
+    "predicado": "es",
+    "objeto": "Galicia",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "La Coruña",
+    "predicado": "es",
+    "objeto": "La Coruña",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Yolanda Díaz Pérez",
+    "predicado": "es",
+    "objeto": "Yolanda Díaz Pérez",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Islas Baleares",
+    "predicado": "es",
+    "objeto": "Islas Baleares",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Canarias",
+    "predicado": "es",
+    "objeto": "Canarias",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Las Palmas",
+    "predicado": "es",
+    "objeto": "Las Palmas",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ángel Víctor Torres Pérez",
+    "predicado": "es",
+    "objeto": "Ángel Víctor Torres Pérez",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "La Rioja",
+    "predicado": "es",
+    "objeto": "La Rioja",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Comunidad de Madrid",
+    "predicado": "es",
+    "objeto": "Comunidad de Madrid",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez Pérez-Castejón",
+    "predicado": "es",
+    "objeto": "Pedro Sánchez Pérez-Castejón",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Sara Aagesen Muñoz",
+    "predicado": "es",
+    "objeto": "Sara Aagesen Muñoz",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Vicepresidencia tercera",
+    "predicado": "tiene",
+    "objeto": "Sara Aagesen Muñoz",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Asuntos Exteriores, Unión Europea y Cooperación",
+    "predicado": "tiene",
+    "objeto": "José Manuel Albares Bueno",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Presidencia, Justicia y Relaciones con las Cortes",
+    "predicado": "tiene",
+    "objeto": "Félix Bolaños García",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Sanidad",
+    "predicado": "tiene",
+    "objeto": "Mónica García Gómez",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Derechos Sociales, Consumo y Agenda 2030",
+    "predicado": "tiene",
+    "objeto": "Pablo Bustinduy Amador",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Transformación Digital y Función Pública",
+    "predicado": "tiene",
+    "objeto": "Óscar López Águeda",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Región de Murcia",
+    "predicado": "es",
+    "objeto": "una comunidad autónoma de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Navarra",
+    "predicado": "es",
+    "objeto": "una comunidad foral de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Inclusión, Seguridad Social y Migraciones",
+    "predicado": "tiene",
+    "objeto": "Elma Saiz Delgado",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Portavoz del Gobierno",
+    "predicado": "tiene",
+    "objeto": "Elma Saiz Delgado",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Vizcaya",
+    "predicado": "es",
+    "objeto": "una provincia de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Interior",
+    "predicado": "tiene",
+    "objeto": "Fernando Grande-Marlaska Gómez",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Valencia",
+    "predicado": "es",
+    "objeto": "una provincia de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Agricultura, Pesca y Alimentación",
+    "predicado": "tiene",
+    "objeto": "Luis Planas Puchades",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ciencia, Innovación y Universidades",
+    "predicado": "tiene",
+    "objeto": "Diana Morant Ripoll",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Hacienda",
+    "predicado": "tiene",
+    "objeto": "Arcadi España García",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Juventud e Infancia",
+    "predicado": "tiene",
+    "objeto": "Sira Abed Rego",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Ceuta",
+    "predicado": "es",
+    "objeto": "una ciudad autónoma de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Melilla",
+    "predicado": "es",
+    "objeto": "una ciudad autónoma de España",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "elegido presidente",
+    "objeto": "con 179 votos a favor",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "convoca elecciones generales",
+    "objeto": "para el día 23 de julio tras los resultados del 28-M",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "adelanta las elecciones generales",
+    "objeto": "al 23 de julio",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "gana las elecciones",
+    "objeto": "en una noche aciaga para el PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "El PP",
+    "predicado": "arraza en las elecciones del 28M",
+    "objeto": "y el PSOE se hunde tras perder sus plazas clave",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "pierde poder territorial",
+    "objeto": "según editorial ABC",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "promete su cargo",
+    "objeto": "ante el Rey y la Constitución",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "nombra",
+    "objeto": "Sara Aagesen",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Puigdemont",
+    "predicado": "rompe",
+    "objeto": "el PSOE",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Milagros Tolón",
+    "predicado": "es",
+    "objeto": "nueva ministra de Educación",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  },
+  {
+    "sujeto": "Carlos Cuerpo",
+    "predicado": "promete",
+    "objeto": "ante el rey",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "nombra",
+    "objeto": "Ana Redondo",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.7
+  },
+  {
+    "sujeto": "Nacho Álvarez",
+    "predicado": "abandona",
+    "objeto": "sus cargos en el partido",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.8
+  },
+  {
+    "sujeto": "Pedro Sánchez",
+    "predicado": "refuerza",
+    "objeto": "María Jesús Montero",
+    "fuente": "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez",
+    "fecha_extraccion": "2026-05-13",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9
+  }
+]
