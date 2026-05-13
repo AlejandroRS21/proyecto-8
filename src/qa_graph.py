@@ -9,10 +9,10 @@ from collections import deque
 
 import networkx as nx
 
-
+BASE = os.path.dirname(os.path.abspath(__file__))
 DATA_FILES = [
-    "data/XV_legislatura_de_España.json",
-    "data/Tercer_Gobierno_Sánchez.json",
+    os.path.join(BASE, "..", "data/XV_legislatura_de_España.json"),
+    os.path.join(BASE, "..", "data/Tercer_Gobierno_Sánchez.json"),
 ]
 
 

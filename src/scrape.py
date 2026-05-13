@@ -2,13 +2,15 @@ import urllib.request
 import urllib.parse
 import os
 
+BASE = os.path.dirname(os.path.abspath(__file__))
+
 URLS = [
     "https://es.wikipedia.org/wiki/XV_legislatura_de_España",
     "https://es.wikipedia.org/wiki/Tercer_Gobierno_Sánchez"
 ]
 
 API_BASE = "https://r.jina.ai/"
-OUTPUT_DIR = "data"
+OUTPUT_DIR = os.path.join(BASE, "..", "data")
 
 def fetch_markdown(url):
     print(f"Fetching: {url}")

@@ -144,7 +144,7 @@ def draw_relationship_threads(graph, positions):
 
 def build_graph():
     G = nx.DiGraph()
-    files = ["data/XV_legislatura_de_España.json", "data/Tercer_Gobierno_Sánchez.json"]
+    files = ["../data/XV_legislatura_de_España.json", "../data/Tercer_Gobierno_Sánchez.json"]
     for f in files:
         source_node = source_label(f)
         G.add_node(source_node)
@@ -304,8 +304,9 @@ def visualize_graph(G, max_nodes=35):
     plt.axis('off')
     # Ajuste exacto: ni un píxel de padding
     plt.subplots_adjust(left=0, right=1, top=1, bottom=0)
-    plt.savefig("graph.png", dpi=dpi, bbox_inches=None, pad_inches=0)
-    print(f"Grafo guardado en graph.png ({fig_width}×{fig_height} in @ {dpi}dpi — A4 exacto)")
+    os.makedirs("../output", exist_ok=True)
+    plt.savefig("../output/graph_matplotlib.png", dpi=dpi, bbox_inches=None, pad_inches=0)
+    print(f"Grafo guardado en ../output/graph_matplotlib.png ({fig_width}×{fig_height} in @ {dpi}dpi — A4 exacto)")
 
 if __name__ == "__main__":
     G = build_graph()

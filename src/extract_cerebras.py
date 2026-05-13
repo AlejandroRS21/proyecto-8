@@ -26,6 +26,8 @@ if base_url:
 
 client = Cerebras(**client_kwargs)
 
+BASE = os.path.dirname(os.path.abspath(__file__))
+
 
 def chunk_text(text, chunk_size=5200, overlap=450):
     chunks = []
@@ -155,8 +157,8 @@ def extract_triplets_from_chunks(text, url):
 def main():
     print(f"Usando modelo: {MODEL}")
     files = [
-        ("data/XV_legislatura_de_España.md", "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a"),
-        ("data/Tercer_Gobierno_Sánchez.md", "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez")
+        (os.path.join(BASE, "..", "data/XV_legislatura_de_España.md"), "https://es.wikipedia.org/wiki/XV_legislatura_de_Espa%C3%B1a"),
+        (os.path.join(BASE, "..", "data/Tercer_Gobierno_Sánchez.md"), "https://es.wikipedia.org/wiki/Tercer_Gobierno_S%C3%A1nchez")
     ]
     
     for relative_path, url in files:
@@ -175,6 +177,7 @@ def main():
             continue
         
         out_path = relative_path.replace(".md", ".json")
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(triplets, f, ensure_ascii=False, indent=2)
             

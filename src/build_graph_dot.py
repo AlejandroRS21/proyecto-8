@@ -13,8 +13,10 @@ from collections import defaultdict
 import networkx as nx
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-DOT_PATH = os.path.join(BASE, "graph.dot")
-PNG_PATH = os.path.join(BASE, "graph.png")
+OUTPUT_DIR = os.path.join(BASE, "..", "output")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+DOT_PATH = os.path.join(OUTPUT_DIR, "graph.dot")
+PNG_PATH = os.path.join(OUTPUT_DIR, "graph.png")
 
 
 def load_triplets(filepath):
@@ -65,8 +67,8 @@ def select_hubs(G, max_nodes=22):
 def build_graph():
     G = nx.DiGraph()
     files = [
-        os.path.join(BASE, "data/XV_legislatura_de_España.json"),
-        os.path.join(BASE, "data/Tercer_Gobierno_Sánchez.json"),
+        os.path.join(BASE, "..", "data/XV_legislatura_de_España.json"),
+        os.path.join(BASE, "..", "data/Tercer_Gobierno_Sánchez.json"),
     ]
     for f in files:
         src = source_label(f)
