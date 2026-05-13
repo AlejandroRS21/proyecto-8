@@ -33,6 +33,7 @@ Este proyecto implementa un pipeline completo que transforma páginas web no est
 │   ├── informe_academico.tex
 │   └── informe_academico.pdf
 │
+├── build_pdf.sh              # Script para regenerar el PDF desde LaTeX
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
@@ -104,6 +105,16 @@ python3 src/qa_graph.py
 ```
 
 > **Nota**: La extracción con LLM requiere una API key de [Cerebras](https://cloud.cerebras.ai/) almacenada en un archivo `.env` con el formato `CEREBRAS_API_KEY=sk-...`.
+
+### Generación del PDF
+
+Para regenerar la memoria académica desde la fuente LaTeX:
+
+```bash
+./build_pdf.sh
+```
+
+Requiere una instalación funcional de `pdflatex` (TeX Live).
 
 ---
 
